@@ -1,0 +1,9 @@
+Remove Pin=P2-1 From Net=D1M1
+Remove Pin=P2-2 From Net=D1M2
+Remove Pin=P2-3 From Net=D2M1
+Remove Pin=P2-4 From Net=D2M2
+Remove Pin=P3-1 From Net=TR1_VCC
+Remove Pin=P3-2 From Net=GND
+Remove Pin=P3-3 From Net=TR2_VCC
+Remove Pin=P3-4 From Net=GND
+Change Component Footprint: Designator=P1 Old Footprint=61300911121 New Footprint=61300911121
