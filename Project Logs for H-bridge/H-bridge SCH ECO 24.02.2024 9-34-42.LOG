@@ -1,0 +1,24 @@
+Remove Pin=U5A-2 From Net=GND
+Remove Pin=U5B-4 From Net=GND
+Remove Pin=U5C-6 From Net=GND
+Remove Pin=U5D-8 From Net=GND
+Remove Pin=U5D-10 From Net=5V
+Remove Pin=U5C-12 From Net=5V
+Remove Pin=U5B-14 From Net=5V
+Remove Pin=U5A-16 From Net=5V
+Remove Pin=U6A-2 From Net=GND
+Remove Pin=U6B-4 From Net=GND
+Remove Pin=U6C-6 From Net=GND
+Remove Pin=U6D-8 From Net=GND
+Remove Pin=U6D-10 From Net=5V
+Remove Pin=U6C-12 From Net=5V
+Remove Pin=U6B-14 From Net=5V
+Remove Pin=U6A-16 From Net=5V
+Change Component Footprint: Designator=P1 Old Footprint=61300911121 New Footprint=61300911121
+Change Component Footprint: Designator=U3 Old Footprint=NDE0003A New Footprint=DCY0004A_L
+Change Component Footprint: Designator=U1 Old Footprint=TO220 New Footprint=TO-263_L
+Change Component Footprint: Designator=U2 Old Footprint=TO220 New Footprint=TO-263_M
+Change Component Comment: Designator=U2 Old Comment=L7805CV New Comment=L7805CD2T-TR
+Change Component Comment: Designator=U1 Old Comment=L7812CV New Comment=L7812ABD2T-TR
+Change Component Comment: Designator=U3 Old Comment=LM1086CT-3.3/NOPB New Comment=LM1117MPX-3.3/NOPB
+Add Pin To Net: Pin=C2-1 Old Net=NetC2_1 New Net=5V
