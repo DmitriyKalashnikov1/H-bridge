@@ -108,6 +108,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCQMWIYD
 
+[Document5]
+DocumentPath=H-bridge_(withoutWires).PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VOKKHGOC
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
