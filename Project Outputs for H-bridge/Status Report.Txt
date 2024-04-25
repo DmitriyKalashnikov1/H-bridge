@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [H-bridge.PrjPcb]
+   Generated File[H-bridge_(withoutWires).TXT]
+   Generated File[H-bridge_(withoutWires).LDP]
+   Generated File[H-bridge_(withoutWires).DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:07:21 On 23.04.2024
